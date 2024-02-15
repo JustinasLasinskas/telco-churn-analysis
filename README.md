@@ -23,11 +23,11 @@ The project includes:
 
 ### Clone the repository:
 
-`git clone https://github.com/your-username/your-repo.git`
+`git clone https://github.com/JustinasLasinskas/telco-churn-analysis.git`
 
 ### Navigate to the project directory:
 
-`cd your-repo`
+`cd telco-churn-analysis`
 
 ### Create a virtual environment (optional but recommended):
 
